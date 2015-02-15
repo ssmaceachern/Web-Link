@@ -6,6 +6,8 @@ strong {color: red; text-decoration: underline;}
 
 .drag-element{
 	border: 1px solid black;
+	background: white;
+	max-width: 200px;
 	display: block;
 	position: relative;
 }
